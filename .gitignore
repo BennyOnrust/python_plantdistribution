@@ -1,2 +1,6 @@
 .idea/workspace.xml
 *.pyc
+.idea/vcs.xml
+.idea/python_plantdistribution.iml
+.idea/modules.xml
+.idea/misc.xml
